@@ -1,6 +1,6 @@
 <h1 style="color:blue;">PAE256 - A Simple Symmetric Cipher</h1>
 	<hr>
-	<h2 style="color:0xFFFFF;">Introduction</h2>
+	<h2 style="color:purple;">Introduction</h2>
 	<p>PAE256 is a simple yet effective symmetric cipher that can be used for encrypting data. It works by taking a plaintext and a key (256 Byte) as input and outputting a ciphertext. The ciphertext can then be decrypted back to the plaintext using the same key. The algorithm is named after the steps it performs: <b>P</b>ermute and <b>A</b>dding (XOR) - (<b>E</b>ncryption). </p>
 	<h2 style="color:purple;">How it works</h2>
 	<p>The PAE256 algorithm works by performing a series of operations on the plaintext and the key to produce the ciphertext. The basic steps of the algorithm are:</p>
