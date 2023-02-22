@@ -7,8 +7,8 @@
 	<ul>
 		<li>Permute the plaintext matrix</li>
 		<li>Perform XOR of cells in plaintext matrix (based on indices key values)</li>
-		<li>Inverte single cells (based on indices key values)</li>
-    <li>Permute the plaintext matrix again</li>
+		<li>Invert single cells (based on indices key values)</li>
+                <li>Permute the plaintext matrix again</li>
 		<li>XOR the plaintext matrix with the key matrix</li>
 		<li>Repeat the above steps and change the key</li>
 		<li>Generate new round key for next chunk of 256 Byte</li>
